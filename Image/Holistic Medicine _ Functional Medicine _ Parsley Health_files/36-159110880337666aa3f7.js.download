@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{YzRU:function(e,t,a){"use strict";a.r(t),a.d(t,"QuotesCarouselModule",(function(){return i}));var n=a("ERkP"),u=a.n(n),o=a("qim/"),r=a("Lunj"),i=function(e){var t=e.quotes,a=Object(r.a)("h6a");return u.a.createElement(o.W,{quotes:t.map((function(e){return{image:e.image,meta:{name:e.authorDisplayName,dateJoined:e.authorSubTitle},quote:u.a.createElement(o.c,{blocks:e._rawContent,serializer:a})}}))})};t.default=i}}]);
+//# sourceMappingURL=36-159110880337666aa3f7.js.map
